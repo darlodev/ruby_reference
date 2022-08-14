@@ -24,7 +24,7 @@ This repo is licensed under an MIT license. A copy of the license is also provid
 [forks-shield]: https://img.shields.io/github/forks/darlodev/ruby_reference.svg?style=for-the-badge
 [forks-url]: https://github.com/darlodev/ruby_reference/network/members
 [stars-shield]: https://img.shields.io/github/stars/darlodev/ruby_reference.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/darlodev/ruby_reference/stargazers
 [issues-shield]: https://img.shields.io/github/issues/darlodev/ruby_reference.svg?style=for-the-badge
 [issues-url]: https://github.com/darlodev/ruby_reference/issues
 [license-shield]: https://img.shields.io/github/license/darlodev/ruby_reference.svg?style=for-the-badge
