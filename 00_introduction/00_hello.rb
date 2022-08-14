@@ -1,4 +1,4 @@
-# This is a comment
+# this is a comment
 
 print "Hello World!"
 # prints to the terminal
